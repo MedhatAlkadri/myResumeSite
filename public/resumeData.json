@@ -1,0 +1,381 @@
+{
+  "main": {
+    "name":"Medhat Alkadri",
+    "occupation":"Full Stack Web Developer & Designer",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"Innovative and proactive FULL Stack Web Developer, successfully developing elegant, groundbreaking website and application designs for demanding clients. Talented in project management, team leadership and independent problem-solving. Highly organized multitasking with expertise in scheduling projects, enhancing designs and verifying code.",
+    "email": "medhatalkadri@gmail.com",
+    "phone": "01008515827",
+    "address":{
+      "street":"",
+      "city":"Alexandri",
+      "state":"",
+      "zip": ""
+    },
+    "website": "http://www.techguywebsolutions.com",
+    "resumedownload":"http://something.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/medhat.alkadri?ref=bookmarks",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/Medhat6000",
+        "className":"fa fa-twitter"
+      },
+
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/medhat-alkadri-b57954aa",
+        "className":"fa fa-linkedin"
+      },
+
+      {
+        "name":"github",
+        "url":"https://github.com/MedhatAlkadri",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Arab Academy For Science, Technology & Maritime Transport (AAST)",
+        "degree":"Bachelor of Computer Science",
+        "graduated":"Jan. 2019",
+        "description":"Information Systems (Major) & Software engineer (Minor)."
+      },
+      {
+        "school":"Udemy.com - Online",
+        "degree":"Node.js & React",
+        "graduated":"",
+        "description":"Courses:",
+        "description1":"1-The Complete 2020 Web Development Bootcamp (54 hours).",
+        "description2":"2-MERN Stack Front to Back: Full Stack React,Redux & Node.js (12 hours).",
+        "description3":"3-MERN Stack - React Node from Scratch Building Social Network (21 hours)."
+      }
+      ,
+      {
+        "school":"University for Modern Sciences and Arts (MSA) ",
+        "degree":"Dentistry",
+        "graduated":"",
+        "description":"I Completed a four-year study of five years in dentistry from the Modern Sciences and Arts University (MSA) in (6 October City)."
+      }
+    ],
+    "work":[
+      {
+        "company":"Upwork.com",
+        "title":"Full Stack Web Developer ",
+        "years":"Jan. 2019 - Present",
+        "description1":"Freelancer Web developer at Upwork.com:",
+        "description1":"Strengthened company brand and identity by creating distinctive website and logo.",
+        "description2":"Tested websites and performed troubleshooting prior to deployment.",
+        "description3":"Developed landing pages, dashboards using Wordpress.",
+        "description4":"Planned and engineered RESTful web services to manipulate dynamic datasets.",
+        "description5":"Collected, defined and translated user requirements into project designs and implementation plans.",
+        "description6":"Designed, implemented and monitored web pages and sites for continuous improvement.",
+        "description7":"Conceived and built optimized landing pages in HTML and CSS, including cross-browser compatibility, to support marketing.",
+        "description8":"Created site layout and user interface using HTML and CSS practices.",
+        "description9":"Collaborated with in-house web designers to create sleek and innovative UI design.",
+        "description10":"Implemented Google Campaigns and SEO for various types of websites.",
+        "description11":"Used programming capabilities in PHP, SQL and JavaScript and other libraries as needed."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML5",
+        "level":"100%"
+      },
+      {
+        "name":"CSS",
+        "level":"100%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"100%"
+      },
+      {
+        "name":"JQuery",
+        "level":"100%"
+      },
+      {
+        "name":"React",
+        "level":"100%"
+      },
+      {
+        "name":"Bootstrap",
+        "level":"100%"
+      },
+      {
+        "name":"Node.js",
+        "level":"100%"
+      },
+      {
+        "name":"Express.js",
+        "level":"100%"
+      },
+      {
+        "name":"Passport.js",
+        "level":"100%"
+      },
+      {
+        "name":"RESTful API,Babel,JSON,XML,TypeScript",
+        "level":"100%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"100%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"NET Core",
+        "level":"80%"
+      },
+      {
+        "name":"NET Framework",
+        "level":"80%"
+      },
+      {
+        "name":"Microsoft Access",
+        "level":"60%"
+      },
+      {
+        "name":"Oracle SQL",
+        "level":"60%"
+      }
+    ],
+    "skills1":[
+      {
+        "name":"Problem solving",
+        "level":"100%"
+      },
+      {
+        "name":"Team management",
+        "level":"100%"
+      },
+      {
+        "name":"Great communication skills",
+        "level":"100%"
+      },
+      {
+        "name":"MYSQL",
+        "level":"100%"
+      },
+      {
+        "name":"Apache",
+        "level":"100%"
+      },
+      {
+        "name":"Nginx",
+        "level":"100%"
+      },
+      {
+        "name":"WordPress",
+        "level":"100%"
+      },
+      {
+        "name":"Woocommerce",
+        "level":"100%"
+      },
+      {
+        "name":"Wix",
+        "level":"100%"
+      },
+      {
+        "name":"Adobe Photoshop",
+        "level":"100%"
+      },
+      {
+        "name":"Photo Editing",
+        "level":"100%"
+      },
+      {
+        "name":"Adobe Premier",
+        "level":"60%"
+      },
+      {
+        "name":"Joomla",
+        "level":"40%"
+      },
+      {
+        "name":"Shopify",
+        "level":"50%"
+      },
+      {
+        "name":"Java",
+        "level":"50%"
+      },
+      {
+        "name":"Python",
+        "level":"40%"
+      },
+      {
+        "name":"Adobe Illustrator",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Car Dealership Agency",
+        "description":"Car Dealership Agency.",
+        "category":"Wordpress",
+        "tags":"Web Design, Web Development",
+        "image":"Car_Dealership_Agency.jpg",
+        "url":"https://autoomatic.com",
+        "modal":"#modal-01"
+      },
+      {
+        "title":"Hospital / Clinic Website",
+        "description":"Hospital / Clinic Website (Template) designed by me.",
+        "category":"Wordpress",
+        "tags":"Web Design, Web Development",
+        "image":"surrier.png",
+        "url":"https://surrier.site",
+        "modal":"#modal-02"
+      },
+      {
+        "title":"A Real Estate Agency",
+        "description":"A Real Estate Agency.",
+        "category":"Wordpress",
+        "tags":"Web Design, Web Development",
+        "image":"A_Real_Estate_Agency.jpg",
+        "url":"https://small-investment.site",
+        "modal":"#modal-03"
+      },
+      {
+        "title":"Home Construction Company Website",
+        "description":"Home Construction Company Website.",
+        "category":"Wordpress",
+        "tags":"Web Design, Web Development",
+        "image":"zeronethomes.jpg",
+        "url":"https://zeronethomes.com/",
+        "modal":"#modal-04"
+      },
+      {
+        "title":"Online Courses Website",
+        "description":"Online Courses Website (Template) designed by me.",
+        "category":"Wordpress",
+        "tags":"Web Design, Web Development",
+        "image":"courseshark.png",
+        "url":"https://courseshark.online",
+        "modal":"#modal-05"
+      },
+      {
+        "title":"Web Designing Agency",
+        "description":"A website for Web Designing Agency.",
+        "category":"Wordpress",
+        "tags":"Web Design, Web Development",
+        "image":"alkcode.jpg",
+        "url":"https://alkcode.com",
+        "modal":"#modal-06"
+      },
+      {
+        "title":"Cosplay Store",
+        "description":"A website for Costume making (aka Cosplay) Store.",
+        "category":"Wordpress",
+        "tags":"Web Design, Web Development",
+        "image":"vega.jpg",
+        "url":"https://vega.com.sa",
+        "modal":"#modal-07"
+      },
+      {
+        "title":"Marketing Agency",
+        "description":"A website for a Marketing Agency.",
+        "category":"Wordpress",
+        "tags":"Web Design, Web Development",
+        "image":"medialabs.jpg",
+        "url":"https://medialabs.space",
+        "modal":"#modal-08"
+      },
+      {
+        "title":"Local Import & Export Company",
+        "description":"A website for a Local import and export Company.",
+        "category":"Wordpress",
+        "tags":"Web Design, Web Development",
+        "image":"ezcheckin.jpg",
+        "url":"https://ezcheckin.us",
+        "modal":"#modal-09"
+      },
+      {
+        "title":"Restaurant Website",
+        "description":"Restaurant Website (Template) designed by me.",
+        "category":"Wordpress",
+        "tags":"Web Design, Web Development",
+        "image":"ckrispy.jpg",
+        "url":"https://ckrispy.site",
+        "modal":"#modal-10"
+      },
+      {
+        "title":"Online Shopping Mall Website",
+        "description":"Online Shopping Mall (Template) designed by me.",
+        "category":"Wordpress",
+        "tags":"Web Design, Web Development",
+        "image":"onlin.png",
+        "url":"https://onlin.store",
+        "modal":"#modal-11"
+      },
+      {
+        "title":"Web Hosting Company Website",
+        "description":"Web Hosting Company Website designed by me.",
+        "category":"Wordpress",
+        "tags":"Web Design, Web Development",
+        "image":"bridgeporthosting.jpg",
+        "url":"https://bridgeporthosting.com",
+        "modal":"#modal-12"
+      },
+      {
+        "title":"A mobile brand (Cube MAX) Website",
+        "description":"A mobile brand (Cube MAX) Website designed by me.",
+        "category":"Wordpress",
+        "tags":"Web Design, Web Development",
+        "image":"cubetech.jpg",
+        "url":"https://cubetech.tech",
+        "modal":"#modal-13"
+      },
+      {
+        "title":"NewsLetter Website",
+        "description":"My Personal NewsLetter Website.",
+        "category":"Mongodb, Node.js, Express.js",
+        "tags":"Web Design, Web Development",
+        "image":"newsletter.png",
+        "url":"https://fast-temple-36040.herokuapp.com",
+        "modal":"#modal-14"
+      },
+      {
+        "title":"ToDo List Website",
+        "description":"ToDo List Website.",
+        "category":"Mongodb, Node.js, Express.js",
+        "tags":"Web Design, Web Development",
+        "image":"todolist.png",
+        "url":"https://cryptic-refuge-03260.herokuapp.com",
+        "modal":"#modal-15"
+      },
+      {
+        "title":"Ecommerce APP",
+        "description":"Ecommerce APP.",
+        "category":"Mongodb, Node.js, Express.js, React, Next.js",
+        "tags":"Web Design, Web Development",
+        "image":"mkstore.png",
+        "url":"https://mkstore.site",
+        "modal":"#modal-16"
+      },
+      {
+        "title":"Blog APP",
+        "description":"PROGRAMMING & WEB DEVELOPMENT BLOGS APP.",
+        "category":"Mongodb, Node.js, Express.js, React, Next.js",
+        "tags":"Web Design, Web Development",
+        "image":"mkblog.png",
+        "url":"https://mkblog.space/",
+        "modal":"#modal-17"
+      }
+    ]
+  }
+}
