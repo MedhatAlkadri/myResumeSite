@@ -14,7 +14,7 @@ class Testimonials extends Component {
                   <ul className="slides">
                   <li>
                      <blockquote>
-                          <img  src='images/portfolio/testimonials/1.jpg' alt="" />
+                          <img  src='../images/portfolio/testimonials/1.jpg' alt="" />
                      </blockquote>
                   </li>
 
