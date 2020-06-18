@@ -14,7 +14,7 @@
       "zip": ""
     },
     "website": "http://medhatalkadri.com",
-    "resumedownload":"http://something.com",
+    "resumedownload":"https://drive.google.com/file/d/1JRq8eJwhIT8miDTVRv_rcX0jAlY4TN9K/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -230,7 +230,7 @@
         "tags":"Web Design, Web Development",
         "image":"Car_Dealership_Agency.jpg",
         "url":"https://autoomatic.com",
-        "modal":"#modal-01"
+        "modal":"https://autoomatic.com"
       },
       {
         "title":"Hospital / Clinic Website",
@@ -239,7 +239,7 @@
         "tags":"Web Design, Web Development",
         "image":"surrier.png",
         "url":"https://surrier.site",
-        "modal":"#modal-02"
+        "modal":"https://surrier.site"
       },
       {
         "title":"A Real Estate Agency",
@@ -248,7 +248,7 @@
         "tags":"Web Design, Web Development",
         "image":"A_Real_Estate_Agency.jpg",
         "url":"https://small-investment.site",
-        "modal":"#modal-03"
+        "modal":"https://small-investment.site"
       },
       {
         "title":"Home Construction Company Website",
@@ -257,7 +257,7 @@
         "tags":"Web Design, Web Development",
         "image":"zeronethomes.jpg",
         "url":"https://zeronethomes.com/",
-        "modal":"#modal-04"
+        "modal":"https://zeronethomes.com/"
       },
       {
         "title":"Online Courses Website",
@@ -266,7 +266,7 @@
         "tags":"Web Design, Web Development",
         "image":"courseshark.png",
         "url":"https://courseshark.online",
-        "modal":"#modal-05"
+        "modal":"https://courseshark.online"
       },
       {
         "title":"Web Designing Agency",
@@ -275,7 +275,7 @@
         "tags":"Web Design, Web Development",
         "image":"alkcode.jpg",
         "url":"https://alkcode.com",
-        "modal":"#modal-06"
+        "modal":"https://alkcode.com"
       },
       {
         "title":"Cosplay Store",
@@ -284,7 +284,7 @@
         "tags":"Web Design, Web Development",
         "image":"vega.jpg",
         "url":"https://vega.com.sa",
-        "modal":"#modal-07"
+        "modal":"https://vega.com.sa"
       },
       {
         "title":"Marketing Agency",
@@ -293,7 +293,7 @@
         "tags":"Web Design, Web Development",
         "image":"medialabs.jpg",
         "url":"https://medialabs.space",
-        "modal":"#modal-08"
+        "modal":"https://medialabs.space"
       },
       {
         "title":"Local Import & Export Company",
@@ -302,7 +302,7 @@
         "tags":"Web Design, Web Development",
         "image":"ezcheckin.jpg",
         "url":"https://ezcheckin.us",
-        "modal":"#modal-09"
+        "modal":"https://ezcheckin.us"
       },
       {
         "title":"Restaurant Website",
@@ -311,7 +311,7 @@
         "tags":"Web Design, Web Development",
         "image":"ckrispy.jpg",
         "url":"https://ckrispy.site",
-        "modal":"#modal-10"
+        "modal":"https://ckrispy.site"
       },
       {
         "title":"Online Shopping Mall Website",
@@ -320,7 +320,7 @@
         "tags":"Web Design, Web Development",
         "image":"onlin.png",
         "url":"https://onlin.store",
-        "modal":"#modal-11"
+        "modal":"https://onlin.store"
       },
       {
         "title":"Web Hosting Company Website",
@@ -329,7 +329,7 @@
         "tags":"Web Design, Web Development",
         "image":"bridgeporthosting.jpg",
         "url":"https://bridgeporthosting.com",
-        "modal":"#modal-12"
+        "modal":"https://bridgeporthosting.com"
       },
       {
         "title":"A mobile brand (Cube MAX) Website",
@@ -338,7 +338,7 @@
         "tags":"Web Design, Web Development",
         "image":"cubetech.jpg",
         "url":"https://cubetech.tech",
-        "modal":"#modal-13"
+        "modal":"https://cubetech.tech"
       },
       {
         "title":"NewsLetter Website",
@@ -347,7 +347,7 @@
         "tags":"Web Design, Web Development",
         "image":"newsletter.png",
         "url":"https://fast-temple-36040.herokuapp.com",
-        "modal":"#modal-14"
+        "modal":"https://fast-temple-36040.herokuapp.com"
       },
       {
         "title":"ToDo List Website",
@@ -356,7 +356,7 @@
         "tags":"Web Design, Web Development",
         "image":"todolist.png",
         "url":"https://cryptic-refuge-03260.herokuapp.com",
-        "modal":"#modal-15"
+        "modal":"https://cryptic-refuge-03260.herokuapp.com"
       },
       {
         "title":"Ecommerce APP",
@@ -365,7 +365,7 @@
         "tags":"Web Design, Web Development",
         "image":"mkstore.png",
         "url":"https://mkstore.site",
-        "modal":"#modal-16"
+        "modal":"https://mkstore.site"
       },
       {
         "title":"Blog APP",
@@ -373,8 +373,8 @@
         "category":"Mongodb, Node.js, Express.js, React, Next.js",
         "tags":"Web Design, Web Development",
         "image":"mkblog.png",
-        "url":"https://mkblog.space/",
-        "modal":"#modal-17"
+        "url":"https://mkblog.space",
+        "modal":"https://mkblog.space"
       }
     ]
   }
