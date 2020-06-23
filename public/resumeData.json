@@ -375,6 +375,15 @@
         "image":"mkblog.png",
         "url":"https://mkblog.space",
         "modal":"https://mkblog.space"
+      },
+      {
+        "title":"MKResort",
+        "description":"Resort App.",
+        "category":"Contentful & React",
+        "tags":"Web Design, Web Development",
+        "image":"mkresort.png",
+        "url":"https://mkresort.space/",
+        "modal":"https://mkresort.space/"
       }
     ]
   }
