@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Medhat Alkadri",
-    "occupation":"Full Stack Web Developer & Designer",
+    "occupation":"Full Stack Software Engineer (MERN)",
     "description":"",
     "image":"profilepic.jpg",
-    "bio":"Innovative and proactive FULL Stack Web Developer, successfully developing elegant, groundbreaking website and application designs for demanding clients. Talented in project management, team leadership and independent problem-solving. Highly organized multitasking with expertise in scheduling projects, enhancing designs and verifying code.",
+    "bio":"Innovative and proactive FULL Stack Software Engineer (MERN), successfully developing elegant, groundbreaking website and application designs for demanding clients. Talented in project management, team leadership and independent problem-solving. Highly organized multitasking with expertise in scheduling projects, enhancing designs and verifying code.",
     "email": "medhatalkadri@gmail.com",
     "phone": "01008515827",
     "address":{
@@ -14,7 +14,7 @@
       "zip": ""
     },
     "website": "http://medhatalkadri.com",
-    "resumedownload":"https://drive.google.com/file/d/1OZG10o5GqJro_x01Ws7zmOJshIoWDCtR/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1VcytI2BnAMUH47QH7EZHkZNrvFUvtAVM/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -53,9 +53,10 @@
         "degree":"Node.js & React",
         "graduated":"",
         "description":"Courses:",
-        "description1":"1-The Complete 2020 Web Development Bootcamp (54 hours).",
-        "description2":"2-MERN Stack Front to Back: Full Stack React,Redux & Node.js (12 hours).",
-        "description3":"3-MERN Stack - React Node from Scratch Building Social Network (21 hours)."
+        "description1":"The Complete 2020 Web Development Bootcamp (54 hours).",
+        "description2":"NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno) (40 hours).",
+        "description3":"React - The Complete Guide (incl Hooks, React Router, Redux) (40.5 hours).",
+        "description4":"React, NodeJS, Express & MongoDB - The MERN Full stack Guide (18.5 hours)."
       }
       ,
       {
@@ -69,19 +70,43 @@
       {
         "company":"Upwork.com",
         "title":"Full Stack Web Developer ",
-        "years":"Jan. 2019 - Present",
-        "description1":"Freelancer Web developer at Upwork.com:",
-        "description1":"Strengthened company brand and identity by creating distinctive website and logo.",
-        "description2":"Tested websites and performed troubleshooting prior to deployment.",
-        "description3":"Developed landing pages, dashboards using Wordpress.",
-        "description4":"Planned and engineered RESTful web services to manipulate dynamic datasets.",
-        "description5":"Collected, defined and translated user requirements into project designs and implementation plans.",
-        "description6":"Designed, implemented and monitored web pages and sites for continuous improvement.",
-        "description7":"Conceived and built optimized landing pages in HTML and CSS, including cross-browser compatibility, to support marketing.",
-        "description8":"Created site layout and user interface using HTML and CSS practices.",
-        "description9":"Collaborated with in-house web designers to create sleek and innovative UI design.",
-        "description10":"Implemented Google Campaigns and SEO for various types of websites.",
-        "description11":"Used programming capabilities in PHP, SQL and JavaScript and other libraries as needed."
+        "years":" Jan. 2019 - Present",
+        "description":[
+          "Great experience in JavaScript technology such as React JS, MongoDB, Express.js and Node JS.",
+          "Expertise in developing web pages using HTML5, CSS3, Bootstrap, SASS, Object Oriented Java script, ES6, jQuery, AJAX, JSON, XML.",
+          "Used Node Package Manager (NPM) and (YARN) to manage the modules and used it to install useful tools such as Express, Crypto.js, Passport.js, Mongoose, Mongo.js, Body-Parser, Bcrypt.js, Mongoose.js, Next.js.",
+          "Great experience with working with various databases such as MongoDB, Firebase, MYSQL.",
+          "Great understanding of Document Object Model (DOM) and DOM Functions.",
+          "Developed user-oriented visuals with front-end languages like React.Js.",
+          "Planned and engineered RESTful web services to control dynamic datasets.",
+          "Good experience in using components, Forms, Events, Keys, Router.",
+          "Good experience with CSS Background, padding, table, Pseudo classes, positioning, border, margin, Pseudo-elements and CSS behaviors including the Box model.",
+          "Good experience in working with various IDE's: Visual Studio, Sublime Text, Atom.",
+          "Good experience with version controls GIT, GITHUB, Bit Bucket."
+        ]
+      }
+      ,
+      {
+        "company":"Upwork.com",
+        "title":"WordPress Web Developer",
+        "years":" Jan. 2018 - Jan. 2019",
+        "description":
+        [
+          "Great experience in creating Responsive WordPress Websites, Photoshop, PHP, JS, HTML, CSS and page builders (Elementor, Divi, Wpbakery, Beaver Builder, Oxygen).",
+          "Tested websites and accomplished troubleshooting before deployment."
+      ]
+      }
+      ,
+      {
+        "company":"Aboukir Engineering Industries Company, Alexandria",
+        "title":"Trainee",
+        "years":"May. 2018 - July. 2018",
+        "description":
+        [
+          "Gained understanding of Web Developing procedures by closely monitoring Experts, asking questions, and giving honest, detailed feedback.",
+          "Closely monitored Testing procedures to identify potential areas for improvement.",
+          "Attended training courses in HTML and JavaScript to build an understanding of the Web Development industry."
+        ]
       }
     ],
     "skills":[

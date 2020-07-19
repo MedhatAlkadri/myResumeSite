@@ -20,32 +20,22 @@ class Resume extends Component {
               <p>
                 {edu.description3}
               </p>
+              <p>
+                {edu.description4}
+              </p>
            </div>
         </div>
       });
 
       var work = this.props.data.work.map(function(job){
-        return <div key={job.company} className="row item">
+        // {console.log(job.description[0])}
+        return <div key={job.years} className="row item">
            <div className="twelve columns">
-              <h3>{job.company}</h3>
+              <h3>{job.Company}</h3>
               <p className="info">{job.title} <em className="date">{job.years}</em></p>
-
-              <p>
-              {job.description}
-              </p>
-              <ol>
-              <li>{job.description1}</li>
-              <li>{job.description2}</li>
-              <li>{job.description3}</li>
-              <li>{job.description4}</li>
-              <li>{job.description5}</li>
-              <li>{job.description6}</li>
-              <li>{job.description7}</li>
-              <li>{job.description8}</li>
-              <li>{job.description9}</li>
-              <li>{job.description10}</li>
-              <li>{job.description11}</li>
-              </ol>
+              <ul>
+              {job.description.map(d => <li key={d} style={{ listStyleType: "circle" }}>{d}</li>)}
+              </ul>
            </div>
         </div>
       });

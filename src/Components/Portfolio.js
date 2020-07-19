@@ -5,7 +5,7 @@ class Portfolio extends Component {
     if(this.props.data){
       var portfolio = this.props.data.projects.map(function(project){
         var imageUrl = 'images/portfolio/'+project.image;
-        return <div className="columns portfolio-item">
+        return <div key={project.title}className="columns portfolio-item">
            <div className="item-wrap">
               <a target="_blank" rel="noopener noreferrer" href={project.modal} title="">
                  <img alt="" src={imageUrl} />
