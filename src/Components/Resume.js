@@ -20,7 +20,7 @@ class Resume extends Component {
         return <div key={job.years} className="row item">
            <div className="twelve columns">
               <h3>{job.Company}</h3>
-              <p className="info">{job.title} <em className="date">{job.years}</em></p>
+              <p className="info" >{job.title} <em className="date">{job.years}</em></p>
               <ul style={{ paddingLeft: 50}}>
               {job.description.map(d => <li key={d} style={{ listStyleType: "circle" }}>{d}</li>)}
               </ul>

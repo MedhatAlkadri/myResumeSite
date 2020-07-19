@@ -271,6 +271,7 @@ ul#nav li.current a { color: #F06000; }
    color: #6E7881;
    margin-bottom: 18px;
    margin-top: 9px;
+   padding-left: 10px;
 }
 #resume .info span {
    margin-right: 5px;
