@@ -8,21 +8,9 @@ class Resume extends Component {
            <div className="twelve columns">
               <h3>{edu.school}</h3>
               <p className="info">{edu.degree}  <em className="date">{edu.graduated}</em></p>
-              <p>
-                {edu.description}
-              </p>
-              <p>
-                {edu.description1}
-              </p>
-              <p>
-                {edu.description2}
-              </p>
-              <p>
-                {edu.description3}
-              </p>
-              <p>
-                {edu.description4}
-              </p>
+              <ul style={{ paddingLeft: 50}}>
+              {edu.description.map(d => <li key={d} style={{ listStyleType: "circle" }}>{d}</li>)}
+              </ul>
            </div>
         </div>
       });
@@ -33,7 +21,7 @@ class Resume extends Component {
            <div className="twelve columns">
               <h3>{job.Company}</h3>
               <p className="info">{job.title} <em className="date">{job.years}</em></p>
-              <ul>
+              <ul style={{ paddingLeft: 50}}>
               {job.description.map(d => <li key={d} style={{ listStyleType: "circle" }}>{d}</li>)}
               </ul>
            </div>
