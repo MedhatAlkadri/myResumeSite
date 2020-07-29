@@ -6,6 +6,7 @@ class Testimonials extends Component {
       <section id="testimonials">
       <div className="text-container">
          <div className="row">
+         <h1>Client Testimonials</h1>
             <div className="two columns header-col">
                <h1><span>Client Testimonials</span></h1>
             </div>
