@@ -24,7 +24,7 @@ class Contact extends Component {
 
             </div>
          </div>
-         <div className="row">
+          <div className="row">
 
             <div className="eight columns">
 
