@@ -49,23 +49,33 @@
         "description":["Information Systems (Major) & Software engineer (Minor)."]
       },
       {
-        "school":"Udemy.com - Online",
-        "degree":"Node.js & React",
-        "graduated":"",
-        "description":[
-          "The Complete 2020 Web Development Bootcamp (54 hours).",
-          "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno) (40 hours).",
-          "React - The Complete Guide (incl Hooks, React Router, Redux) (40.5 hours).",
-          "React, NodeJS, Express & MongoDB - The MERN Full stack Guide (18.5 hours)."
-        ]
-      }
-      ,
-      {
         "school":"University for Modern Sciences and Arts (MSA) ",
         "degree":"Dentistry",
         "graduated":"",
         "description":["I Completed a four-year study of five years in dentistry from the Modern Sciences and Arts University (MSA) in (6 October City)."]
       }
+    ],
+    "courses":[
+      {
+      "school":"Udemy.com - Online",
+      "degree":"Node.js & React",
+      "graduated":"",
+      "description":[
+        "The Complete 2020 Web Development Bootcamp (54 hours).",
+        "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno) (40 hours).",
+        "React - The Complete Guide (incl Hooks, React Router, Redux) (40.5 hours).",
+        "React, NodeJS, Express & MongoDB - The MERN Full stack Guide (18.5 hours)."
+      ]
+    },
+    {
+    "school":"ITI",
+    "degree":"React",
+    "graduated":"",
+    "description":[
+      "React JS (4 Hours, 24 Minutes)."
+    ]
+  }
+
     ],
     "work":[
       {
