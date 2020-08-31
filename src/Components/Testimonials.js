@@ -64,6 +64,31 @@ class Testimonials extends Component {
                              <img  src='images/portfolio/testimonials/10.jpg' alt="" />
                         </blockquote>
                      </li>
+                     <li>
+                        <blockquote>
+                             <img  src='images/portfolio/testimonials/11.jpg' alt="" />
+                        </blockquote>
+                     </li>
+                     <li>
+                        <blockquote>
+                             <img  src='images/portfolio/testimonials/12.jpg' alt="" />
+                        </blockquote>
+                     </li>
+                     <li>
+                        <blockquote>
+                             <img  src='images/portfolio/testimonials/13.jpg' alt="" />
+                        </blockquote>
+                     </li>
+                     <li>
+                        <blockquote>
+                             <img  src='images/portfolio/testimonials/14.jpg' alt="" />
+                        </blockquote>
+                     </li>
+                     <li>
+                        <blockquote>
+                             <img  src='images/portfolio/testimonials/15.jpg' alt="" />
+                        </blockquote>
+                     </li>
                      </ul>
                </div>
             </div>
